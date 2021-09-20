@@ -229,6 +229,11 @@ padding-top: 30px;
 
 @media(max-width: 480px){
 
+html{
+width: 100vw;
+overflow-x: hidden;
+}
+
 *{
 margin: 0;
 padding: 0;
